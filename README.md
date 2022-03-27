@@ -15,63 +15,6 @@ A aplicação consiste em fazer uma busca paginada e avaliação de filmes. Back
 
 <br />
 
-## Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [ ] Finalizar API
-- [ ] Criar Front-End
-- [ ] Aplicar métodos de autenticação
-
-## 💻 Pré-requisitos
-
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente do `python`
-* Você tem uma máquina `<Windows / Linux / Mac>`.
-
-## 🚀 Instalando Django Ecomerce API
-
-Para instalar o Django Ecomerce API, siga estas etapas:
-
-- Linux e macOS:
-
-```zsh
-python '-m' 'venv' '.venv'
-```
-
-```zsh
-.\.venv\Scripts\activate
-```
-
-```zsh
-python manage.py runserve 8000
-```
-
-- Windows:
-
-```zsh
-python '-m' 'venv' '.venv'
-```
-
-```zsh
-.\.venv\Scripts\activate
-```
-
-```zsh
-python manage.py runserve 8000
-```
-
-## ☕ Usando Django Ecomerce API
-
-Para usar Django Ecomerce API, siga estas etapas:
-
-```zsh
-python manage.py runserve 8000
-```
-
-Para testar os endpoints, acesse a pasta `helpers` e poderá utilizar alguns endpoints para testar o funcionamento do projeto.
-
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
