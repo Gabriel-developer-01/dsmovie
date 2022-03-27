@@ -7,18 +7,8 @@
  <li><strong><a href="#--aprendizados-front-end">Aprendizados Front-end</a></strong></li>
 </ol>
 
-🌎 **Acesse agora:**
-
-<a href="https://devgabriel-dsmovie.netlify.app/" target="_blank" title="acessar o site"><strong>Link do site</strong></a>
-
-### [](#--sobre-projeto) 🔥 Sobre o projeto
-
-Semana Spring React - Evento promovido pela escola DevSuperior em 01/2022.
-
-A aplicação consiste em fazer uma busca paginada e avaliação de filmes. Back-end construído com Spring Boot e front-end com React e Bootstrap.
-
+🌎 **Acesse agora:** <a href="https://devgabriel-dsmovie.netlify.app/" target="_blank" title="acessar o site"><strong>Link do site</strong></a>
 <br />
-
 ### Visualização do site
 <h1 style="padding: 50px; background: #333333;">
 <img alt="home" src="https://github.com/Gabriel-developer-01/dsmovie/blob/main/images/home.png" width=480px/>
@@ -26,7 +16,13 @@ A aplicação consiste em fazer uma busca paginada e avaliação de filmes. Back
 <img alt="form" src="https://github.com/Gabriel-developer-01/dsmovie/blob/main/images/form.png" width=480px/>
 </h1>
 
-### :space_invader: Modelo Conceitual
+### [](#--sobre-projeto) 🔥 Sobre o projeto
+
+Semana Spring React - Evento promovido pela escola DevSuperior em 01/2022.
+
+A aplicação consiste em fazer uma busca paginada e avaliação de filmes. Back-end construído com Spring Boot e front-end com React e Bootstrap.
+
+### 👾 Modelo Conceitual
 
 <h1 style="padding: 50px; background: #333333;">
     <img alt="modelo conceitual dsvendas" title="#modelo conceitual dsvendas" src="https://github.com/Gabriel-developer-01/dsmovie/blob/main/images/modelo-conceitual-dsmovie.jpg" width=480px/>
@@ -127,7 +123,7 @@ yarn start
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/gabriel-mendes-3a668917b/">
-        <img src="https://avatars.githubusercontent.com/Gabriel-developer-01" style="border-radius: 8px" width="100px;" alt="Gabriel Mendes"/><br>
+        <img style="border-radius: 8px" src="https://avatars.githubusercontent.com/Gabriel-developer-01" width="100px;" alt="Gabriel Mendes"/><br>
         <sub>
           <b>Gabriel Mendes</b>
         </sub>
